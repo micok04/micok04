@@ -1,5 +1,6 @@
 ## Hi there 👋
-Hola soy mike,enterate de mi y vengo consolarte 👻🏀🕺
+Hola soy mike,enterate de mi y vengo consolarte 👻🏀🕺![image](https://github.com/user-attachments/assets/114e645d-88da-41e3-9a15-4515b3c97893)
+
 <!--
 **micok04/micok04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
